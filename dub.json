@@ -1,0 +1,11 @@
+{
+	"name": "usbd",
+	"description": "libusb bindings for D",
+    "homepage": "https://github.com/opisano/libusbd",
+	"copyright": "Copyright © 2014, Olivier Pisano",
+	"authors": ["Olivier Pisano"],
+    "license": "GPL 2.0 or later",
+    "targetType": "library",
+	"dependencies": {
+	}
+}
